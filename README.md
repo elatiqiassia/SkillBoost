@@ -1,4 +1,4 @@
-# chatbot
+# Skill_Boost
  Chatbot pour le développement de compétences professionnelles.
 
 Ce projet est un chatbot conçu pour aider les utilisateurs à développer leurs compétences professionnelles dans deversité des domaines comme developpement web ,Design,
